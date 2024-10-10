@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--    <usb-permissions>-->
+<!--        <usb-permission android:name="com.quanticheart.USB_PERMISSION" />-->
+<!--    </usb-permissions>-->
+
+<!--    <usb-interface android:name="com.quanticheart.interface.PPC930">-->
+<!--        <usb-filter>-->
+<!--            <usb-vendor-id android:value="0489" />-->
+<!--            <usb-product-id android:value="5501" />-->
+<!--        </usb-filter>-->
+<!--    </usb-interface>-->
+
+    <usb-device
+        product-id="5501"
+        vendor-id="0489" />
+
+    <usb-device
+        product-id="5502"
+        vendor-id="0489" />
+
+    <usb-device
+        product-id="5503"
+        vendor-id="0489" />
+
+</resources>
+
